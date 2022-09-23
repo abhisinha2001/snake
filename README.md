@@ -4,4 +4,4 @@ A simple snake game created using basic I/O in C++. It utilises the most basic p
 
 ## Requirements
 
-No additional requirements needed. The code was executed on turbo C++ hence some packages might be depracted.
+No additional requirements needed. The code was executed on turbo C++ hence some packages might be deprecated.
